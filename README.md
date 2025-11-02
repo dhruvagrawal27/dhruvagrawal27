@@ -1,13 +1,13 @@
-<!-- PROFILE README FOR Dhruv Agrawal -->
+<!-- 🌟 GITHUB PROFILE README FOR DHruv Agrawal -->
 
-<img src="https://raw.githubusercontent.com/dhruvagrawal403/dhruvagrawal403/main/assets/banner.jpg" alt="Banner" width="100%">
+<img src="https://raw.githubusercontent.com/dhruvagrawal27/dhruvagrawal27/main/assets/banner.jpg" alt="Banner" width="100%">
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=dhruvagrawal403&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvagrawal403" />
+  <img src="https://komarev.com/ghpvc/?username=dhruvagrawal27&label=Profile%20views&color=e9902a&style=flat" alt="dhruvagrawal27" />
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Dhruv+Agrawal!;+AI+Engineer+%26+Full-Stack+Developer!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=650&height=70&duration=4000&color=e9902a&lines=Hi+There!+👋;+I'm+Dhruv+Agrawal!;+AI+Engineer+%26+Full-Stack+Developer!;" />
 </h1>
 
 <h3 align="center">🚀 Machine Learning Enthusiast | Full Stack (Python & Node.js) Developer | Shopify Developer | AI Innovator</h3>
@@ -19,10 +19,10 @@
 ### 🧠 About Me
 
 I’m a **Machine Learning and Full-Stack Developer** passionate about building intelligent, scalable systems that merge **AI**, **automation**, and **modern web technologies**.  
-With hands-on experience across **Python**, **Node.js**, and **Shopify app development**, I love working at the intersection of **AI and real-world products**.
+With hands-on experience in **Python**, **Node.js**, and **Shopify app development**, I love creating real-world products that fuse innovation and impact.
 
 - 🎓 Studying at **NMIMS University**  
-- 🏆 **2× Google Developer Student Club Winner** at NMIMS  
+- 🏆 **2× Google Developer Student Club Winner**  
 - 🥇 **IIT Kanpur ML Hackathon Winner**  
 - 🤖 **Fetch.AI Agentic AI Hackathon Winner**  
 - 💰 **₹1.5+ Lakh** earned from ML & AI hackathons  
@@ -62,7 +62,7 @@ Git · Docker · Firebase · MongoDB · PostgreSQL · REST APIs · AWS · Vercel
 
 - 🤖 Building **Agentic AI frameworks** integrating Fetch.AI + LangChain  
 - 💼 Developing **Shopify AI-powered automation apps**  
-- 🌱 Exploring **LLM fine-tuning & multimodal reasoning**  
+- 🌱 Exploring **LLM fine-tuning & multimodal reasoning systems**  
 - 🔗 Enhancing my **open-source portfolio**
 
 ---
@@ -70,7 +70,7 @@ Git · Docker · Firebase · MongoDB · PostgreSQL · REST APIs · AWS · Vercel
 ### 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/dhruv-agrawal-403/" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/dhruv-agrawal-27/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
   </a>
   <a href="https://twitter.com/DhruvAOfficial" target="_blank" rel="noreferrer">
@@ -105,14 +105,15 @@ Git · Docker · Firebase · MongoDB · PostgreSQL · REST APIs · AWS · Vercel
 ### 💳 GitHub Profile Summary
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhruvagrawal403&theme=vue"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhruvagrawal27&theme=vue"/>
 </p>
 
 ---
 
 ### ✍️ Random Dev Quote
+
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote" alt="Quote">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=radical&color=e9902a" alt="Quote">
 </p>
 
 ---
@@ -120,16 +121,17 @@ Git · Docker · Firebase · MongoDB · PostgreSQL · REST APIs · AWS · Vercel
 ### ⚡ GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhruvagrawal403&show_icons=true&locale=en" alt="dhruvagrawal403"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruvagrawal403&show_icons=true&layout=compact&locale=en" alt="Top Languages"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvagrawal403" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dhruvagrawal27&show_icons=true&title_color=e9902a&icon_color=e9902a&text_color=000&bg_color=ffffff" alt="Dhruv GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruvagrawal27&show_icons=true&layout=compact&title_color=e9902a&text_color=000&bg_color=ffffff" alt="Top Languages"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvagrawal27&ring=e9902a&fire=e9902a&currStreakLabel=e9902a" alt="GitHub Streak"/>
 </p>
 
 ---
 
 ### 🐍 My Contributions (Snake Eating My Contributions)
+
 <div align="center">
-  <img alt="snake" src="https://raw.githubusercontent.com/dhruvagrawal403/dhruvagrawal403/output/github-contribution-grid-snake.svg" />
+  <img alt="snake" src="https://raw.githubusercontent.com/dhruvagrawal27/dhruvagrawal27/output/github-contribution-grid-snake.svg" />
 </div>
 
 ---
