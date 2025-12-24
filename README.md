@@ -1,7 +1,5 @@
 <!-- 🌟 GITHUB PROFILE README FOR Dhruv Agrawal -->
 
-<img src="https://raw.githubusercontent.com/dhruvagrawal27/dhruvagrawal27/main/assets/banner.jpg" alt="Banner" width="100%">
-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=dhruvagrawal27&label=Profile%20views&color=e9902a&style=flat" alt="dhruvagrawal27" />
 </p>
@@ -193,14 +191,15 @@ Python · JavaScript · TypeScript · C++ · SQL · Git · Docker · Vercel · A
 
 ### ⚡ GitHub Activity
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dhruvagrawal27&show_icons=true&theme=radical&hide_border=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvagrawal27&theme=radical&hide_border=true" />
-</p>
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dhruvagrawal27&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvagrawal27&layout=compact&theme=radical&hide_border=true" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com/?user=dhruvagrawal27&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dhruvagrawal27&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
 
 ---
 
